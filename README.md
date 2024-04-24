@@ -7,8 +7,9 @@ To get started with the Address-book, follow these steps:
     Python 3.11 or higher
 
 ## Install Dependencies Navigate to the cloned repository and install the required dependencies:
+    cd address-book
+
     pip install -r requirements.txt
-    cd app
 
 ## Start the Application Run the following command to start the application:
 
